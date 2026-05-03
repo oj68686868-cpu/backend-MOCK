@@ -1,0 +1,9 @@
+- [x] All 3 indexes implemented
+- [x] Caching implemented
+- [x] .gitignore added
+- [x] .env.example created
+- [x] Used environment variables
+- [x] Deployed successfully
+- [x] 5 endpoints tested
+- [x] Documentation completed
+- [x] Screenshots added
